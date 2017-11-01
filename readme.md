@@ -1,6 +1,6 @@
 This is my personal Website.
 
-Developed using:
+Developed using: <br />
 -- Language: HTML & CSS
 -- Packager: NPM
 -- Framework: Foundation
