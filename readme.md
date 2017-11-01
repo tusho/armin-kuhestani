@@ -1,14 +1,10 @@
 This is my personal Website.
 
-Developed using:
-
--- Language: HTML & CSS
-
--- Packager: NPM
-
--- Framework: Foundation
-
--- Methodology: SASS
+Developed using: <br />
+-- Language: HTML & CSS <br />
+-- Packager: NPM <br />
+-- Framework: Foundation <br />
+-- Methodology: SASS <br />
 
 
 Coded by Armin Kuhestani
