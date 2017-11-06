@@ -10,3 +10,6 @@ import Foundation from 'foundation-sites';
 
 
 $(document).foundation();
+
+// Load Work Sans typeface
+// require('typeface-work-sans')
